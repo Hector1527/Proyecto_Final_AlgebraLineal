@@ -24,5 +24,7 @@ pip install -r requirements.txt
 
 ### 3. Ejecución del Proyecto
 Ejecución Completa
+
 cd src
+
 python main.py
